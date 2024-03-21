@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotSoSadkeanu
 - 👀 I’m interested in all and nothing at all.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate or elaborate.
 
 <!---
