@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NotSoSadkeanu
 - 👀 I’m interested in all and nothing at all.
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate or elaborate.
 
 <!---
 NotSoSadkeanu/NotSoSadkeanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
