@@ -2,15 +2,15 @@
 
 ### Languages and tools
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-  title="c" width="20" height="20" />
+  title="c" width="30" height="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  title="javascript" width="20" height="20"/>
+  title="javascript" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
-  title="gitlab" width="20" height="20"/>
+  title="gitlab" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-  title="docker" width="20" height="20"/>
+  title="docker" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-  title="postgresql" width="20" height="20"/>
+  title="postgresql" width="30" height="30"/>
           
           
 <!---
