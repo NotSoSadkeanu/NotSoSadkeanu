@@ -1,5 +1,4 @@
 # **Hi, I’m Renata Shabanova!**
-## A newbie developer ✨
 
 ### My languages and tools:
 
